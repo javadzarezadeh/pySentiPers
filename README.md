@@ -19,7 +19,8 @@ mailto:jayzee1992@gmail.com
 ## <div dir="rtl">نحوه‌ی نصب</div>
 <div dir="rtl">
 این پروژه بر روی PyPI قرار گرفته و می‌توانید آن را با استفاده از ابزار pip نصب کنید.
-```python
+</div>
+
+```bash
 pip install pysentipers
 ```
-</div>
