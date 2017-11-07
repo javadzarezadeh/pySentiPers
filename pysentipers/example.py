@@ -1,4 +1,4 @@
-import pySentiPers as sp
+import pysentipers as sp
 
 path = '../Sentiment_Datasets/SentiPersV1.0_Extra/SentiPersV1.0/Data/(Canon IXUS 240 HS (PowerShot ELPH 320 HS.xml'
 
