@@ -1,8 +1,12 @@
 from setuptools import setup
+from pathlib import Path
+
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='pysentipers',
-    version='0.1.7',
+    version='0.1.8',
     description='Python API for SentiPers Dataset',
     author='Javad Zarezadeh',
     author_email='jvd.zarezadeh@gmail.com',
@@ -12,5 +16,7 @@ setup(
     license='GPLv3',
     python_requires='>=3',
     install_requires=['beautifulsoup4'],
-    classifiers=[]
+    classifiers=[],
+    long_description=long_description,
+    long_description_content_type='text/markdown'
 )
