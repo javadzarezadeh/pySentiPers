@@ -1,7 +1,11 @@
 <div dir="rtl">
 
-# pySentiPers
+# <p dir="rtl">pySentiPers</p>
+
+<p dir="rtl">
 Python API for SentiPers Dataset - رابط برنامه‌نویسی کاربردی پایتون مجموعه داده‌ی سنتی‌پرس
+
+</p>
 
 ## مقدمه
 
