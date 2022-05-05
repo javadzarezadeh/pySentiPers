@@ -8,7 +8,6 @@ setup(
     author_email='jvd.zarezadeh@gmail.com',
     packages=['pysentipers'],
     url='https://github.com/javadzarezadeh/pySentiPers',
-    download_url='https://github.com/javadzarezadeh/pySentiPers/archive/refs/tags/0.1.5.tar.gz',
     keywords='sentipers sentiment analysis',
     license='GPLv3',
     python_requires='>=3',
