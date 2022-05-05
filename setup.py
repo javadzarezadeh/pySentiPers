@@ -12,5 +12,6 @@ setup(
     keywords='sentipers sentiment analysis',
     license='GPLv3',
     python_requires='>=3',
-    install_requires=['beautifulsoup4']
+    install_requires=['beautifulsoup4'],
+    classifiers=[]
 )
