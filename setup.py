@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='pysentipers',
-    version='0.1.6',
+    version='0.1.7',
     description='Python API for SentiPers Dataset',
     author='Javad Zarezadeh',
     author_email='jvd.zarezadeh@gmail.com',
