@@ -2,12 +2,13 @@ from setuptools import setup
 
 setup(
     name='pysentipers',
-    version='0.1.4',
+    version='0.1.5',
     description='Python API for SentiPers Dataset',
     author='Javad Zarezadeh',
-    author_email='jayzee1992@gmail.com',
+    author_email='jvd.zarezadeh@gmail.com',
     packages=['pysentipers'],
-    url='https://github.com/jayzee1992/pySentiPers',
+    url='https://github.com/javadzarezadeh/pySentiPers',
+    download_url='https://github.com/javadzarezadeh/pySentiPers/archive/refs/tags/0.1.5.tar.gz',
     keywords='sentipers sentiment analysis',
     license='GPLv3',
     python_requires='>=3',
