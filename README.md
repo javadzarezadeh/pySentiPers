@@ -26,5 +26,6 @@ Python API for SentiPers Dataset - رابط برنامه‌نویسی کاربر
 ```bash
 pip install pysentipers
 ```
+
 </p>
 </div>
