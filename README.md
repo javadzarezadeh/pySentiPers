@@ -21,11 +21,11 @@ Python API for SentiPers Dataset - رابط برنامه‌نویسی کاربر
 ## نحوه‌ی نصب
 این پروژه بر روی PyPI قرار گرفته و می‌توانید آن را با استفاده از ابزار pip نصب کنید.
 
-<p dir="ltr">
+<div dir="ltr">
 
 ```bash
 pip install pysentipers
 ```
 
-</p>
+</div>
 </div>
