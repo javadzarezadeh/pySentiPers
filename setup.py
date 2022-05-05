@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name='pysentipers',
-    version='0.1.8',
+    version='0.1.9',
     description='Python API for SentiPers Dataset',
     author='Javad Zarezadeh',
     author_email='jvd.zarezadeh@gmail.com',
