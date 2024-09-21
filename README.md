@@ -1,3 +1,5 @@
+[![Downloads](https://static.pepy.tech/badge/pysentipers)](https://pepy.tech/project/pysentipers)
+[![Downloads](https://static.pepy.tech/badge/pysentipers/month)](https://pepy.tech/project/pysentipers)
 <div dir="rtl">
 
 # <p dir="rtl">pySentiPers</p>
